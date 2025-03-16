@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "set": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "stack": "cpp",
+        "__locale": "cpp"
+    },
+    "terminal.integrated.profiles.osx": {
+        "zsh (No Conda)": {
+            "path": "/bin/zsh",
+            "args": []
+        }
+    },
+    "terminal.integrated.defaultProfile.osx": "zsh (No Conda)"
+}

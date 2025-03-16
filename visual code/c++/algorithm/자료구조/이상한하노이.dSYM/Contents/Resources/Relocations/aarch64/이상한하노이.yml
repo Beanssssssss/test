@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/kjb/c++/visual code/c++/algorithm/자료구조/이상한하노이"
+relocations:     []
+...

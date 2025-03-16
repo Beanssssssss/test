@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/kjb/c++/visual code/c++/algorithm/문자열/소수부분문자열"
+relocations:     []
+...
